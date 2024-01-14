@@ -1,4 +1,3 @@
-
 # Remix Password Generator
 
 ## Overview
@@ -45,10 +44,6 @@ The Remix Password Generator is a web application built using the Remix framewor
 ## Usage
 
 Simply input the desired length for your password and click the "Generate" button. The application will display a randomly generated password, which you can then copy to the clipboard by clicking the "Copy to Clipboard" button.
-
-## Contributing
-
-Contributions to the Remix Password Generator are welcome! Please feel free to submit pull requests, report bugs, or suggest features.
 
 ## License
 
